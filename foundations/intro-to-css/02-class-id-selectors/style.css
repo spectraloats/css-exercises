@@ -1,20 +1,19 @@
 .odd {
-    background-color: pink;
+    background-color: rgb(241, 182, 192);
     font-family: Verdana, "DejaVu Sans", sans-serif;
-
 }
 
-#larger-font {
+.larger-font {
     font-size: 24px;
 }
 
 #two {
-    color: blue;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
 #four {
-    background-color: lightgreen;
+    background-color: rgb(142, 236, 142);
     font-size: 24px;
     font-weight: bold;
 }
